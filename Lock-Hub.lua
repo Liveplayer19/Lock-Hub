@@ -6,7 +6,7 @@
    local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/roburox/s1mple/main/SolarisLib"))()
 
    local win = SolarisLib:New({
-     Name = "simplity",
+     Name = "LockHub",
      FolderToSave = "SolarisLibStuff"
    })
 
